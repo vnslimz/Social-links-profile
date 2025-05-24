@@ -41,6 +41,10 @@ body{
     list-style: none;
     margin: 0;
 }
+.socialprofile a{
+    text-decoration: none;
+    color: inherit;
+}
 .sociallink{
     cursor: pointer;
     border-radius: 10px;
